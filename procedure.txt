@@ -1,0 +1,11 @@
+A comprehensive step-by-step process to push & pull projects from local machine to GitHub 
+is given below:
+
+New Project: (Visual Interaction)
+1.  Initialize Repository: Click on the "Initialize Repository" button placed inside the 'Source Control' which is on the left panel of the VS Code. It will create a queue of all the necessary files to commit to GitHub.
+2.  Commit: Write a responsible message before committing. It
+3.  Config Git (If ask)
+4.  Add Remote
+5.  Push
+6.  Fill GitHub Account Credentials
+7.  Push Again (If required)
