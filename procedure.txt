@@ -6,6 +6,6 @@ New Project: (Visual Interaction)
 2.  Commit: Write a responsible message before committing. Then click the '✔' on the top of the message input field.
 3.  Config Git (If ask): If the git is not setup, it will ask to configure the email & name for only once in the first time. Need to use git bash/vs code terminal. For configuring email using 'git config --global user.mail "youremail@gmail.com"', and for configuring name use 'git config --global user.name "yourName"'. Then exit this terminal.
 4.  Add Remote Path: To add remote path, use the command "git remote add origin https://github.com/Ashraf840/GitHub_Initialization_VS_Code.git" in the terminal. This link can be found inside the GitHub repository. Simply go to the desired repository, click on the code and a dropdown will appear with 'HTTPS', 'SSH', 'GitHub CLI', copy the HTTPS link and append to this terminal command.
-5.  Push: Now to push a commit, we can either use visual instructions/terminal commands. For 
+5.  Push: Now to push a commit, we can either use visual instructions/terminal commands. Before pushing any file to GitHub, make sure there isn't any file left in the Source Control's Changes tab. Click the push button in the 'More Actions' of the Source Control, or execute the command "git push -u origin master" in the terminal.
 6.  Fill GitHub Account Credentials
 7.  Push Again (If required)
